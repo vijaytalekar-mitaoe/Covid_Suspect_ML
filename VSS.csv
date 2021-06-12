@@ -1,0 +1,51 @@
+sr.no,any travell history since last 25 days,Contact with person travelling,runny nose ,sore throat,cough,fever,difficulty breathing,are you in contact of person who has cough,RESULT
+1,yes,no,yes,yes,yes,yes,yes,yes,Suspect of CORONA
+2,yes,no,yes,yes,yes,yes,yes,no,Suspect of CORONA
+3,yes,no,no,no,yes,yes,no,yes,Suspect of CORONA
+4,yes,no,yes,no,yes,yes,no,no,Suspect of CORONA
+5,yes,no,yes,yes,no,no,no,yes,Suspect of CORONA
+6,yes,no,no,yes,no,no,yes,no,Suspect of CORONA
+7,yes,no,yes,yes,yes,no,no,yes,Suspect of CORONA
+8,yes,no,yes,yes,yes,no,no,no,Suspect of CORONA
+9,yes,no,no,yes,no,yes,yes,yes,Suspect of CORONA
+10,yes,no,yes,no,no,yes,yes,no,Suspect of CORONA
+11,yes,no,no,no,no,yes,no,yes,Suspect of CORONA
+12,yes,no,no,no,no,no,yes,no,Suspect of CORONA
+13,yes,no,no,no,no,no,no,yes,Suspect of CORONA
+14,yes,no,yes,yes,no,no,yes,no,Suspect of CORONA
+15,yes,no,yes,yes,no,no,no,yes,Suspect of CORONA
+16,no,yes,yes,yes,yes,yes,yes,yes,Suspect of CORONA
+17,no,yes,yes,yes,yes,yes,yes,no,Suspect of CORONA
+18,no,yes,no,no,yes,yes,no,yes,Suspect of CORONA
+19,no,yes,yes,no,yes,yes,no,no,Suspect of CORONA
+20,no,yes,yes,yes,no,no,no,yes,Suspect of CORONA
+21,no,yes,no,yes,no,no,yes,no,Suspect of CORONA
+22,no,yes,yes,yes,yes,no,no,yes,Suspect of CORONA
+23,no,yes,yes,yes,yes,no,no,no,Suspect of CORONA
+24,no,yes,no,yes,no,yes,yes,yes,Suspect of CORONA
+25,no,yes,yes,no,no,yes,yes,no,Suspect of CORONA
+26,no,yes,no,no,no,yes,no,yes,Suspect of CORONA
+27,no,yes,no,no,no,no,yes,no,Suspect of CORONA
+28,no,yes,no,no,no,no,no,yes,Suspect of CORONA
+29,no,yes,yes,yes,no,no,yes,no,Suspect of CORONA
+30,no,yes,yes,yes,no,no,no,yes,Suspect of CORONA
+31,no,no,yes,yes,yes,yes,yes,yes,Quarantine yourself
+32,no,no,yes,no,no,no,no,no,Stay at home
+33,yes,no,no,no,no,no,no,no,Quarantine yourself
+34,no,yes,no,no,no,no,no,no,Quarantine yourself
+35,no,no,no,yes,yes,yes,no,yes,Stay at home
+36,no,no,yes,no,yes,yes,no,no,Stay at home
+37,no,no,yes,yes,no,no,yes,yes,Stay at home
+38,no,no,no,yes,yes,no,yes,no,Stay at home
+39,no,no,no,yes,yes,no,no,yes,Stay at home
+40,no,no,yes,no,yes,no,no,no,Stay at home
+41,no,no,no,yes,no,yes,yes,yes,Stay at home
+42,no,no,no,yes,no,yes,yes,no,Stay at home
+43,no,no,yes,yes,no,no,no,no,Stay at home
+44,no,no,no,yes,no,yes,no,no,Stay at home
+45,no,no,no,yes,no,no,yes,yes,Stay at home
+46,yes,no,yes,no,no,no,no,no,Quarantine yourself
+47,yes,no,no,yes,no,no,no,no,Quarantine yourself
+48,no,yes,yes,no,no,no,no,no,Quarantine yourself
+49,no,no,no,no,no,no,no,no,Stay at home
+50,no,no,no,no,no,no,no,yes,Stay at home
